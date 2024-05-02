@@ -1,4 +1,4 @@
-# Checkpoint 2 - Edge Computing & Computer System
+# Checkpoint 2 - Edge Computer & Computer System
 
 Sensor de temperatura, umidade e luminosidade pensado com base no Case da Vinheria Agnello, focando em manter a qualidade dos vinhos. Solicitado pelo professor Flávio Grassi.
 
